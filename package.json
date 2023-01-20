@@ -1,0 +1,19 @@
+{
+  "name": "PERN-STACK-CHAT-BACKEND",
+  "version": "1.0.0",
+  "description": "Backend Api for chat app",
+  "main": "index.js",
+  "type": "module",
+  "author": "RAVI SHARMA <ravisharma23523@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "pg": "^8.8.0"
+  }
+}
