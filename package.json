@@ -6,6 +6,10 @@
   "type": "module",
   "author": "RAVI SHARMA <ravisharma23523@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "server":"node index.js",
+    "autoserver" : "nodemon index.js"
+  },
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
